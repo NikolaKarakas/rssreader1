@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 17 12:00:24 CEST 2020
+https\://gitlab.com/api/v4/projects/test1/packages/maven/.lastUpdated=1589709624138
+http\://uk.maven.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-resources-plugin\:pom\:2.6 from/to UK (http\://uk.maven.org/maven2)\: Transfer failed for http\://uk.maven.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom
+@default-UK-http\://uk.maven.org/maven2/.lastUpdated=1589709353229
+https\://gitlab.com/api/v4/projects/test1/packages/maven/.error=
