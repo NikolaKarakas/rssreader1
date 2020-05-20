@@ -49,7 +49,7 @@
     }
 	
 </style>
-<body style="background-color:powderblue;">
+<body >
 
 <%
 System.out.println("EVO ");
